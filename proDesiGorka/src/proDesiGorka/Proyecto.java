@@ -11,6 +11,10 @@ int x=0;
 		if(x==0) {
 			System.out.println("Funciona");
 		}
-	}
 
+		if(x==1) {
+			System.out.println("No funciona");
+		}
+
+}
 }
