@@ -23,6 +23,7 @@ int x=0;
 		System.out.println("Cambio en el remoto.");
 		
 		System.out.println("Ya estamos trabajando juntos");
+		System.out.println("Hemos resueltos los conflictos, continuamos");
 
 }
 }
