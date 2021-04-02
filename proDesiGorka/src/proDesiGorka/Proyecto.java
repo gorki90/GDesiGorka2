@@ -15,6 +15,8 @@ int x=0;
 		if(x==1) {
 			System.out.println("No funciona");
 		}
+		
+		System.out.println("Verificar si se realiza el cambio");
 
 }
 }
