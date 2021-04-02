@@ -11,6 +11,7 @@ int x=0;
 		if(x==0) {
 
 			System.out.println("Funciona, y no me gusta nada");
+
 			
 		}
 
