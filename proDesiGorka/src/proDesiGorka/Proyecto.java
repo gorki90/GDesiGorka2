@@ -9,12 +9,9 @@ int x=0;
 		System.out.println("Que tal?");
 		System.out.println("Yo bien y tu?");
 		if(x==0) {
-<<<<<<< HEAD
+
 			System.out.println("Funciona, y no me gusta nada");
-=======
-			System.out.println("Funciona y me parece genial");
->>>>>>> branch 'master' of https://github.com/gorki90/GDesiGorka2.git
-			System.out.println("Funciona y me parece genial");
+			
 		}
 
 		if(x==1) {
