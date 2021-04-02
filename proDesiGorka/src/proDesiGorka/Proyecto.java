@@ -9,7 +9,7 @@ int x=0;
 		System.out.println("Que tal?");
 		System.out.println("Yo bien y tu?");
 		if(x==0) {
-			System.out.println("Funciona");
+			System.out.println("Funciona y me parece genial");
 		}
 
 		if(x==1) {
