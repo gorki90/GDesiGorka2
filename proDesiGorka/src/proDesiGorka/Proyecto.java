@@ -18,7 +18,6 @@ int x=0;
 		
 		System.out.println("Verificar si se realiza el cambio");
 		System.out.println("Cambio en el remoto.");
-		System.out.println("Ya estamos sincronizados");
 
 }
 }
